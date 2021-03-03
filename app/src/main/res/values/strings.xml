@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Whitezone</string>
+    <string name="title_home">Home</string>
+    <string name="title_habits">Habits</string>
+    <string name="title_tips">Tips</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <string name="hello_world">Hello Square World!</string>
+    <string name="judul">Jaga tangan Anda tetap bersih</string>
+    <string name="isi">Isi</string>
+</resources>
